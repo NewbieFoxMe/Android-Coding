@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Hello Android</string>
+    <string name="button_show">ClickMe</string>
+    <string name="baidu">baidu</string>
+    <string name="tel">tel:10086</string>
+    <string name="exit">exit</string>
 </resources>
