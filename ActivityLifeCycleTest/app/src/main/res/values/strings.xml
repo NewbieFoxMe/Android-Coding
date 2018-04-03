@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityLifeCycleTest</string>
+    <string name="dialog_page">Dialog page</string>
+    <string name="start_normal_activity">start normal activity</string>
+    <string name="start_impbtn_activity">start impbtn activity</string>
+    <string name="input_hint">input something</string>
+    <string name="finishall">finishAll</string>
+    <string name="change_image">change image</string>
+    <string name="alertdialog">AlertDialog</string>
+    <string name="processdialog">ProcessDialog</string>
+</resources>
