@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPerferencesTest</string>
+    <string name="save">save</string>
+    <string name="read">read</string>
+    <string name="key">key</string>
+    <string name="value">value</string>
+</resources>

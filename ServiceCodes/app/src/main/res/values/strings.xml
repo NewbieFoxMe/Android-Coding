@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceCodes</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="bind">bind</string>
+    <string name="unbind">unbind</string>
+    <string name="intent_service">intent_service</string>
+</resources>

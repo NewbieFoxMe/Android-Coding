@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlayMusicVideo</string>
+    <string name="play">Play</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+    <string name="v_play">V_play</string>
+    <string name="v_pause">V_pause</string>
+    <string name="v_stop">V_stop</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaUse</string>
+    <string name="notify">notify</string>
+    <string name="cancel">cancel</string>
+</resources>

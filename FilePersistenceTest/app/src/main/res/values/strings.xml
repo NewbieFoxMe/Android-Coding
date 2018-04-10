@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FilePersistenceTest</string>
+    <string name="save">save</string>
+    <string name="read">read</string>
 </resources>

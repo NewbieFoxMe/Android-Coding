@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteTest</string>
+    <string name="create">Create</string>
+    <string name="add">add</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="query">query</string>
+</resources>

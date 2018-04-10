@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContentProviderTest</string>
+    <string name="call">call</string>
+    <string name="show">show</string>
+    <string name="r_add">R_add</string>
+    <string name="r_update">R_update</string>
+    <string name="r_delete">R_delete</string>
+    <string name="r_query">R_query</string>
+</resources>

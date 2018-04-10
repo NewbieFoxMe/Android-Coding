@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LitePalTest</string>
+    <string name="create">create</string>
+    <string name="add">add</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="query">query</string>
+</resources>
