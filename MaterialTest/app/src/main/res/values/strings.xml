@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MaterialTest</string>
+    <string name="backup">Backup</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+    <string name="show_menu">This is menu</string>
+    <string name="nav_call">nav_call</string>
+    <string name="upload">upload</string>
+    <string name="username">username</string>
+    <string name="mail">xxx@mail.com</string>
+</resources>
